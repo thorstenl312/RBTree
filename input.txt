@@ -1,2 +1,0 @@
-InsertBook(4, "Book4", "Author1", "Yes")
-PrintBook(3)
